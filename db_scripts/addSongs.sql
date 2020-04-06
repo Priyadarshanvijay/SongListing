@@ -1,0 +1,14 @@
+INSERT INTO songs (song_name, date_of_release) VALUES ('Between The Bars', '1997-11-29');
+INSERT INTO songs (song_name, date_of_release) VALUES ('A different Age', '2018-10-9');
+INSERT INTO songs (song_name, date_of_release) VALUES ('Deathbed', '2019-03-20');
+INSERT INTO songs (song_name, date_of_release) VALUES ('B.P. 2', '2013-11-9');
+INSERT INTO songs (song_name, date_of_release) VALUES ('Forget about DRE', '1999-10-9');
+INSERT INTO songs (song_name, date_of_release) VALUES ('XO', '1998-10-9');
+INSERT INTO songs (song_name, date_of_release) VALUES ('Still DRE', '1999-03-9');
+INSERT INTO songs (song_name, date_of_release) VALUES ('Ocean Eyes - Blackbear Remix', '2019-10-9');
+INSERT INTO songs (song_name, date_of_release) VALUES ('Do Re Mi', '2017-10-9');
+INSERT INTO songs (song_name, date_of_release) VALUES ('if i could i would feel nothing', '2017-09-13');
+INSERT INTO songs (song_name, date_of_release) VALUES ('Dance to this', '2018-10-9');
+INSERT INTO songs (song_name, date_of_release) VALUES ('My My My!', '2018-10-9');
+INSERT INTO songs (song_name, date_of_release) VALUES ('7 rings', '2019-10-9');
+INSERT INTO songs (song_name, date_of_release) VALUES ('idontwannabeyouanymore', '2017-07-21');
