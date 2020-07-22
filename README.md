@@ -1,3 +1,5 @@
+![Code Lint](https://github.com/Priyadarshanvijay/SongListing/workflows/Code%20Lint/badge.svg)
+
 
 ## Available Scripts
 
